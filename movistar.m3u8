@@ -65,11 +65,8 @@ http://IP:PUERTO/1:0:19:74DB:3F8:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74CD_3F8_1_C00000_0_0_0.png",SYFY HD
 #EXTVLCOPT--http-reconnect=true
 http://IP:PUERTO/1:0:19:74CD:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7607_408_1_C00000_0_0_0.png",M. Oscars
-#EXTVLCOPT--http-reconnect=true
-http://IP:PUERTO/1:0:1:7607:408:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_74A2_41C_1_C00000_0_0_0.png",MTV ESPAÑA
-#EXTVLCOPT:program=29858
+#EXTVLCOPT--http-reconnect=true
 http://IP:PUERTO/1:0:1:74A2:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_77BC_40A_1_C00000_0_0_0.png",FDF
 #EXTVLCOPT--http-reconnect=true
