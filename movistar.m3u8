@@ -242,9 +242,6 @@ http://IP:PUERTO/1:0:1:7697:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7820_428_1_C00000_0_0_0.png",NICKELODEONHD
 #EXTVLCOPT--http-reconnect=true
 http://IP:PUERTO/1:0:19:7820:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_772A_416_1_C00000_0_0_0.png",DISNEY XD
-#EXTVLCOPT--http-reconnect=true
-http://IP:PUERTO/1:0:1:772A:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_788B_414_1_C00000_0_0_0.png",DISNEY CH HD
 #EXTVLCOPT--http-reconnect=true
 http://IP:PUERTO/1:0:19:788B:414:1:C00000:0:0:0:
@@ -362,9 +359,6 @@ http://IP:PUERTO/1:0:1:18F0:3F4:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_75FD_408_1_C00000_0_0_0.png",ARAGON TV INT
 #EXTVLCOPT--http-reconnect=true
 http://IP:PUERTO/1:0:1:75FD:408:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7A49_410_1_C00000_0_0_0.png",TBN Espana
-#EXTVLCOPT--http-reconnect=true
-http://IP:PUERTO/1:0:1:7A49:410:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_2760_402_1_C00000_0_0_0.png",Sonlife Broadcasting Network
 #EXTVLCOPT--http-reconnect=true
 http://IP:PUERTO/1:0:1:2760:402:1:C00000:0:0:0:
