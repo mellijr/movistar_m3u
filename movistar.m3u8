@@ -83,9 +83,9 @@ http://IP:PUERTO/1:0:19:74D5:3F8:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D8_3F8_1_C00000_0_0_0.png",M.CineDoc&Roll
 #EXTVLCOPT--http-reconnect=true
 http://IP:PUERTO/1:0:19:74D8:3F8:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_749D_41C_1_C00000_0_0_0.png",M. DISNEY
-#EXTVLCOPT--http-reconnect=true
-http://IP:PUERTO/1:0:1:749D:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_1_7607_408_1_C00000_0_0_0.png",Disney+
+#EXTVLCOPT:program=30215
+http://IP:PUERTO/1:0:1:7607:408:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7509_420_1_C00000_0_0_0.png",M. ACCIÓN HD
 #EXTVLCOPT--http-reconnect=true
 http://IP:PUERTO/1:0:19:7509:420:1:C00000:0:0:0:
