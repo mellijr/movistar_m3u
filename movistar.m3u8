@@ -128,7 +128,7 @@ http://IP:PUERTO/1:0:19:7855:41A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_785F_41A_1_C00000_0_0_0.png",M. LaLiga 3 HD
 #EXTVLCOPT--http-reconnect=true
 http://IP:PUERTO/1:0:19:785F:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78B4_3EC_1_C00000_0_0_0.png",M.LCAMPEONES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78B4_3EC_1_C00000_0_0_0.png",M.LCAMPEONES HD
 #EXTVLCOPT--http-reconnect=true
 http://IP:PUERTO/1:0:19:78B4:3EC:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7861_41A_1_C00000_0_0_0.png",M.LCAMPEON1
